@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 mod searching;
 mod sorting;
+=======
+pub mod sorting;
+pub mod searching;
+>>>>>>> cleanup
 
 #[cfg(test)]
 mod tests {
